@@ -15,7 +15,9 @@ Por se tratar de um projeto desenvolvido em python, não é necessário compilar
 
 
 De modo que o arquivo referenciado no primeiro comando é o que contém o arquivo a ser compactado e o arquivo referenciado no segundo comando é o arquivo compactado gerado pelo compactador
+
 Como o projeto foi desenvolvido a partir do software Jupyter, também é possível executa o compactador e descompactador por ele, basta abrir os notebooks Decompression.ipynb e Compression.ipynb no jupyter.
+
 Além disso, recomendo caso não tenha o jupyter instalar ou não saiba utilizá-lo, vizualizar os notebooks Decompression.ipynb e Compression.ipnb no própio github pelos seguintes links:
 https://github.com/Danhfg/Huffman-compression/blob/master/Decompression.ipynb
 https://github.com/Danhfg/Huffman-compression/blob/master/Compression.ipynb
